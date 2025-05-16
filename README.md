@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Bachelor's Degree in Computer Engineering.<br>🧑🏼‍💻 Currently working on <h1>Ecommerce projects<h1>.<br>💡 I'm currently learning vue.js, node.js, aws and mongodb.<br>🎲 Fun fact : I love to play basketball & cricket.</p>
+<p align="left">🚀 Bachelor's Degree in Computer Engineering.<br>🧑🏼‍💻 Currently working on Ecommerce projects.<br>💡 I'm currently learning vue.js, node.js, aws and mongodb.<br>🎲 Fun fact : I love to play basketball & cricket.</p>
 
 ###
 
